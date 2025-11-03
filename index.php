@@ -1,4 +1,1 @@
-<?php
-echo "Hello from PHP in Docker!";
-phpinfo();
-?>
+<?php echo "Hello from PHP - Version 2!"; phpinfo(); ?>
